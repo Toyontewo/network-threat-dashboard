@@ -125,4 +125,4 @@ To add a new detector:
 ## Author
 
 Toyobong Samuel Ntewo — Network Security Analyst & Python Developer  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/toyontewo) · [LinkedIn](https://www.linkedin.com/in/toyontewo/)
